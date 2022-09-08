@@ -8,6 +8,8 @@ function App() {
     <div className="App">
       <h3>Realtime Clock With Class Component :</h3>
       <WithClassComponent/>
+      <br/>
+      <br/>
       <h3>Realtime Clock With Fuction Component :</h3>
       <WithFuctionComponent/>
     </div>

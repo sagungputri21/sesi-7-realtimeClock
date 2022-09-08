@@ -42,7 +42,6 @@
 .title {
   color:rgb(59 130 246);
   font-weight: 700;
-  margin-top: 10px;
 }
 
 .Clock {
@@ -51,5 +50,5 @@
   margin: 0 auto;
   padding: 15px;
   box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
-  margin-top: 10px;
+  margin-top: 5px;
 }

@@ -5,7 +5,7 @@ const WithFuctionComponent = () => {
 
     const [date, setDate] = useState(new Date())
 
-    function tick() {
+    const tick = () => {
         setDate(new Date())
     }
 
